@@ -1,7 +1,3 @@
-Sure, here's a basic README template for your FnAKE game:
-
----
-
 # FnAKE - A Fully Original Snake Game
 
 ## Overview
