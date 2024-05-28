@@ -1,0 +1,3 @@
+C:/dev/cppProjectsTerminalGames/snakeGameTutor/cmake-build-debug/CMakeFiles/snakeGameTutor.dir
+C:/dev/cppProjectsTerminalGames/snakeGameTutor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/cppProjectsTerminalGames/snakeGameTutor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
